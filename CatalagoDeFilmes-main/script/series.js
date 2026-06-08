@@ -15,9 +15,9 @@ const series = [
         descricao: "Coisas estranhas",
     },
     {
-        titulo: "Os Flintstones",
-        imagem: "https://media.themoviedb.org/t/p/w300_and_h450_face/kJpL6zkMyoN0CuoPKftWxEJ6Y9T.jpg",
-        descricao: "Os Flintstones (em inglês: The Flintstones) é uma série de televisão animada que foi exibida de 1960 a 1966 e criada por William Hanna e Joseph Barbera. O desenho retrata o cotidiano de uma família de classe média da Idade da Pedra. Calcula-se que já foi assistido por 300 milhões de espectadores em 80 países, sendo dublado em 22 idiomas. A série estreou às 20:30 do dia 30 de setembro de 1960, no canal ABC, e durou até 1 de abril de 1966. Entre 1 de outubro de 1992 e 1 de janeiro de 2004 foi emitida no Cartoon Network dos Estados Unidos. Os Flintstones parecem uma família típica de classe média da década de 60, mas suas aventuras são ambientadas na Idade da Pedra. Eles utilizam eletrodomésticos que são uma mistura de tecnologia com artefatos de pedra lascada e dinossauros.",
+        titulo: "South Park",
+        imagem: "https://media.themoviedb.org/t/p/w300_and_h450_face/ojwZ7dO7CUVUjbUDW81XaBjqy6h.jpg",
+        descricao: "Aqui tem de tudo um pouco",
     },
     {
         titulo: "Apenas um show",
